@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Seven777
+- 👀 I’m interested in Python, JavaScript and C#
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on my school project
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I'm a professional Valorant player
